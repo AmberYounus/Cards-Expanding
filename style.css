@@ -29,7 +29,7 @@ h1{
   flex: 0.5;
   margin: 10px;
   position: relative;
-  -webkit-transition: all 700ms ease-in;
+  -webkit-transition: all 600ms ease-in;
 }
 
 .panel h3 {
